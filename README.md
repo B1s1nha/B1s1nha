@@ -26,10 +26,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,vue,lavarel)](https://skillicons.dev)
 
 ### Studying in this moment:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-![Php](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=react,next,prisma,native)](https://skillicons.dev)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
