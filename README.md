@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C5E7E2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriella+Huppes;I'm+22+years+old;I'm+from+Brazil;I'm+majoring+in+computer+science;Be+Welcome!)](https://git.io/typing-svg)
 
 
+Tenho **<!-- COMMIT COUNT -->** commits, incluindo os privados!
 
 
 <p align="center">
