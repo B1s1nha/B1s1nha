@@ -18,7 +18,7 @@
 
 
 <div align="center"> 
-<a href = "mailto:g_abi.2002@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:g_abi.2002@hotmail.com">(https://skillicons.dev/icons?i=js,html,css,php,vue,lavarel)](https://skillicons.dev) </a>
 <a href="https://www.linkedin.com/in/gabriella-huppes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
