@@ -18,12 +18,12 @@
 
 
 <div align="center"> 
-<a href = "mailto:g_abi.2002@hotmail.com"><img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /></a>
-<a href="https://www.linkedin.com/in/gabriella-huppes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href = "mailto:bisynhahuppes@gmail.com"><img src="https://skillicons.dev/icons?i=email" /></a>
+<a href="https://www.linkedin.com/in/gabriella-huppes" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
  </div>
  
  ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,vue,lavarel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,vue,lavarel,git)](https://skillicons.dev)
 
 ### Studying in this moment:
 [![My Skills](https://skillicons.dev/icons?i=react,next,prisma,docker)](https://skillicons.dev)
