@@ -18,7 +18,7 @@
 
 
 <div align="center"> 
-<a href = "mailto:bisynhahuppes@gmail.com"><img src="https://skillicons.dev/icons?i=email" /></a>
+<a href = "mailto:bisynhahuppes@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://www.linkedin.com/in/gabriella-huppes" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
  </div>
  
