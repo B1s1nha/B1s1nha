@@ -14,10 +14,10 @@
 
  
  ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,vue,laravel,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,vue,laravel,git,react,next,docker,typescript)](https://skillicons.dev)
 
 ### Studying in this moment:
-[![My Skills](https://skillicons.dev/icons?i=react,next,prisma,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
 
 
 
